@@ -47,3 +47,8 @@
 <p><b>Ilham Gurat Adillion, S.Kom., M.Kom.</b></p>
 
 <hr>
+
+
+# Welsh-Powell Algorithm gif
+
+![gif](./assets/1A.gif)
