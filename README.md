@@ -93,4 +93,13 @@ Row 3: 11   7   9
 <img width="877" height="288" alt="Screenshot 2025-11-05 at 19 47 57" src="https://github.com/user-attachments/assets/b491677b-d2c8-4075-bba7-d187c48e1ead" />
 <img width="519" height="420" alt="Screenshot 2025-11-05 at 19 48 05" src="https://github.com/user-attachments/assets/67508058-d436-4fbd-a4ba-3ff973bb645c" />
 
+**Input 2 example:**
+```
+Row 1: 30  25   10
+Row 2: 15  10  20
+Row 3: 25   20   15
+```
+**Output 2 example:**
+<img width="422" height="618" alt="Screenshot 2025-11-05 at 19 53 47" src="https://github.com/user-attachments/assets/6e0a5824-9f47-4e72-ad91-0c0b8b9bdbf2" />
+
 
