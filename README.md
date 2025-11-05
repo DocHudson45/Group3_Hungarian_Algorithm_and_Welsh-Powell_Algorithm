@@ -63,3 +63,5 @@ B E 4
 ```
 
 ![gif](./assets/1A.gif)
+<img width="191" height="369" alt="Screenshot 2025-11-05 at 19 28 46" src="https://github.com/user-attachments/assets/d0452140-b58e-4db6-b84e-1e0b92859a0e" />
+
