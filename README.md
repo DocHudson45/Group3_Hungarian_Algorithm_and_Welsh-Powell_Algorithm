@@ -100,6 +100,7 @@ Row 2: 15  10  20
 Row 3: 25   20   15
 ```
 **Output 2 example:**
+
 <img width="422" height="618" alt="Screenshot 2025-11-05 at 19 53 47" src="https://github.com/user-attachments/assets/6e0a5824-9f47-4e72-ad91-0c0b8b9bdbf2" />
 
 
