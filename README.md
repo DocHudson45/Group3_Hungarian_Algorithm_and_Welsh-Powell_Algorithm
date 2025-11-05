@@ -73,7 +73,12 @@ B D 2
 B E 4
 ```
 
-**Output:**
+**Output example:**
 ![gif](./assets/1A.gif)
 <img width="191" height="369" alt="Screenshot 2025-11-05 at 19 28 46" src="https://github.com/user-attachments/assets/1e57889d-5448-432a-9279-68086bb24043" />
 
+
+## Hungarian Algorithm
+**Purpose:** To find the most efficient one-to-one assignment between two sets (e.g., workers <-> tasks) with the mininum total cost.
+
+**What it does:** It matches items from Set A to Set B in the best possible way so the overall cost is as low as possible. 
