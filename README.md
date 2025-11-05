@@ -82,3 +82,15 @@ B E 4
 **Purpose:** To find the most efficient one-to-one assignment between two sets (e.g., workers <-> tasks) with the mininum total cost.
 
 **What it does:** It matches items from Set A to Set B in the best possible way so the overall cost is as low as possible. 
+
+**Input 1 example:**
+```
+Row 1: 10  12   8
+Row 2: 9  10  11
+Row 3: 11   7   9
+```
+**Output 1 example:**
+<img width="877" height="288" alt="Screenshot 2025-11-05 at 19 47 57" src="https://github.com/user-attachments/assets/b491677b-d2c8-4075-bba7-d187c48e1ead" />
+<img width="519" height="420" alt="Screenshot 2025-11-05 at 19 48 05" src="https://github.com/user-attachments/assets/67508058-d436-4fbd-a4ba-3ff973bb645c" />
+
+
