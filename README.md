@@ -49,6 +49,59 @@
 <hr>
 
 
-# Welsh-Powell Algorithm gif
+## Welsh-Powell Algorithm
 
-![gif](./assets/1A.gif)
+**Purpose:** Assign colors
+to graph nodes so that no two adjacent nodes share the same color (graph coloring). 
+
+**How it works:**
+1. Calculate degree for each node
+2. Sort nodes in decreasing degree
+3. Assign the first color to the highest-degree node, and all other non-adjacent nodes
+4. Repeat with new colors until all nodes are colored
+
+**Input example:**
+```
+Enter nodes: A, B, C, D, E
+Enter edges as: u v cost
+A B 10
+B C 5
+A D 7
+C E 8
+D E 3
+B D 2
+B E 4
+```
+
+**Output example (with visualization):**
+![gif](./assets/wp.gif)
+<img width="191" height="369" alt="Screenshot 2025-11-05 at 19 28 46" src="https://github.com/user-attachments/assets/1e57889d-5448-432a-9279-68086bb24043" />
+
+
+## Hungarian Algorithm
+**Purpose:** To find the most efficient one-to-one assignment between two sets (e.g., workers <-> tasks) with the mininum total cost.
+
+**What it does:** It matches items from Set A to Set B in the best possible way so the overall cost is as low as possible. 
+
+**Input 1 example:**
+```
+Row 1: 10  12   8
+Row 2: 9  10  11
+Row 3: 11   7   9
+```
+**Output 1 example (with visualization):**
+![gif](./assets/hungarian_test1.gif)
+<img width="877" height="288" alt="Screenshot 2025-11-05 at 19 47 57" src="https://github.com/user-attachments/assets/b491677b-d2c8-4075-bba7-d187c48e1ead" />
+<img width="519" height="420" alt="Screenshot 2025-11-05 at 19 48 05" src="https://github.com/user-attachments/assets/67508058-d436-4fbd-a4ba-3ff973bb645c" />
+
+**Input 2 example:**
+```
+Row 1: 30  25   10
+Row 2: 15  10  20
+Row 3: 25   20   15
+```
+**Output 2 example (with visualization):**
+![gif](./assets/hungarian_test2.gif)
+<img width="422" height="618" alt="Screenshot 2025-11-05 at 19 53 47" src="https://github.com/user-attachments/assets/6e0a5824-9f47-4e72-ad91-0c0b8b9bdbf2" />
+
+
