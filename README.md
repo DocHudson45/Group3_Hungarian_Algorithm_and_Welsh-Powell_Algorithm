@@ -50,5 +50,14 @@
 
 
 # Welsh-Powell Algorithm gif
+Enter nodes: A, B, C, D, E
+Enter edges as: u v cost
+A B 10
+B C 5
+A D 7
+C E 8
+D E 3
+B D 2
+B E 4
 
 ![gif](./assets/1A.gif)
