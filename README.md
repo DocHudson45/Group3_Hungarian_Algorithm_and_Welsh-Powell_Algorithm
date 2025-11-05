@@ -60,7 +60,7 @@ to graph nodes so that no two adjacent nodes share the same color (graph colorin
 3. Assign the first color to the highest-degree node, and all other non-adjacent nodes
 4. Repeat with new colors until all nodes are colored
 
-**Input example:**
+**Input example (with visualization):**
 ```
 Enter nodes: A, B, C, D, E
 Enter edges as: u v cost
